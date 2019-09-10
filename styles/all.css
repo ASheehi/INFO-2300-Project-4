@@ -1,0 +1,629 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+nav li{
+    font-family: 'Cinzel', serif;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    margin-left:50px;
+    font-size: 20px;
+    padding-top:20px;
+}
+nav{
+    padding-right:100px;
+    background-color: #c93b28;
+    display: flex;
+    margin:-10px;
+    justify-content: center;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    padding-top:50px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-bottom:16px;
+}
+
+nav a:hover{
+    background-color: rgb(33, 150, 140);
+    opacity: 1;
+    transition: 0.7s;
+
+}
+
+.indicationpage{
+    background-color: rgb(33, 150, 140);
+}
+
+footer{
+    background-color: #c93b28;
+    color: white;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    height:35px;
+    margin-top:25px;
+    text-align: center;
+    font-family: avenir;
+    word-spacing: 6px;
+}
+
+/* Home Page */
+.club_banner_language img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner_source{
+    text-align: center;
+    font-size: 15px;
+}
+
+
+.welcome_text{
+    text-align: center;
+    font-family: avenir;
+}
+
+
+a#link{
+    margin-left: 620px;
+    margin-bottom:120px;
+    color:white;
+    padding-top:16px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:16px;
+    background-color: rgba(201,59,40,0.9);
+}
+.slideshow{
+height:600px;
+margin-bottom:70px;
+}
+.resources_slideshow{
+    margin-bottom:-250px;
+}
+img#style{
+    width:800px;
+    height: 500px;
+    margin-left: 280px;
+    margin-top:8px;
+    margin-bottom:-160px;
+    border-radius:20px;
+    border-style: solid;
+    border-color: #c93b28;
+
+}
+cite#resource{
+    margin-top:100px;
+    background-color: white;
+}
+.navbuttonnext{
+    background-color:rgba(201,59,40,0.9);
+    color:white;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left:740px;
+
+
+}
+.navbuttonprev{
+    background-color:rgba(201,59,40,0.9);
+    color:white;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left:280px;
+
+
+}
+.navbuttonprev:hover{
+    cursor: pointer;
+
+}
+.navbuttonnext:hover{
+    cursor: pointer;
+
+}
+.testing{
+    margin-bottom:40px;
+}
+h2#scrollresources{
+margin-left: 540px;
+margin-top: 50px;
+
+font-family: 'Cinzel', serif;
+}
+.explanation{
+    font-size: 20px;
+    margin-left:300px;
+    width:800px;
+    height:140px;
+    font-family: 'Cinzel', serif;
+    color: black;
+    font-weight: bold;
+}
+.explanation1{
+    font-size: 20px;
+    margin-left:300px;
+    font-family: 'Cinzel', serif;
+    color: black;
+    font-weight: bold;
+}
+
+
+.follow{
+    margin-left:650px;
+    margin-top:10px;
+}
+img#fbredirect{
+    width:50px;
+    height:50px;
+
+}
+p#fb{
+    font-size:12px;
+    color: blue;
+    font-style: oblique;
+    margin-left:-27px;
+}
+.resourcecite{
+    font-display: avenir;
+    font-size: 10px;
+    margin-left:290px;
+    margin-top:100px;
+
+
+}
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+.welcome_text2{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: avenir;
+}
+
+
+.eboard {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.banner_aligned img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.avenir_text{
+    letter-spacing: 3px;
+    font-family: Avenir;
+    font-size: 20px;
+    margin: 15px;
+    padding-left: 5px;
+    color: #212d60;
+    text-align: center;
+}
+
+.avenir_text2{
+    letter-spacing: 3px;
+    font-family: Avenir;
+    font-size: 20px;
+    margin: 15px;
+    padding-left: 5px;
+    color: rgb(33, 150, 140);
+    text-align: center;
+}
+
+.avenir_text3{
+    letter-spacing: 3px;
+    font-family: Avenir;
+    font-size: 20px;
+    margin: 15px;
+    padding-left: 5px;
+    color: #c93b28;
+    text-align: center;
+}
+
+
+.avenir_text4{
+    letter-spacing: 3px;
+    font-family: Avenir;
+    font-size: 20px;
+    /* margin: 15px;
+    padding-left: 5px; */
+    color: rgb(33, 150, 140);
+}
+
+
+.background_color{
+    background-color: hsl(120, 10%, 92%);
+}
+
+.pictures_aligned img{
+    width: 250px;
+    height: 180px;
+}
+.pictures_aligned2 img{
+    width: 400px;
+    height: 250px;
+}
+.pictures_aligned{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 20px;
+}
+.pictures_aligned2{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 20px;
+}
+.citation{
+    font-display: avenir;
+    font-size: 10px;
+    text-align: center;
+}
+
+.eboard {
+    display: flex;
+    flex-direction: row;
+    font-family: avenir;
+    margin: 30px;
+    box-shadow: 10px 5px rgb(248, 233, 97);
+    padding: 20px;
+    background-color:   antiquewhite;
+    /*margin-left: 90px;
+    /*margin-right: 90px;*/
+    margin-bottom: 85px;
+    /* float: right; */
+    padding-bottom: 80px;
+    margin-right: 20px;
+}
+
+
+.info img {
+    height: 15%;
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: 20px;
+    float: left;
+}
+
+.info2 {
+    background-color: antiquewhite;
+}
+
+.text_inline{
+    font-family: avenir;
+    padding: 15px;
+}
+
+.text_inline5{
+    font-family: avenir;
+    padding: 15px;
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+.bordersneakpeek{
+    font-family: 'Cinzel', serif;
+    background-color:rgb(248, 233, 97);
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 20px;
+    margin: 15px;
+    padding-left: 5px;
+    color: black;
+}
+
+.form_name{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+    font-family: avenir;
+}
+
+.form_name2{
+    display: inline-block;
+    margin-left: 300px;
+    margin-right: 20px;
+    margin-top: 8px;
+    margin-bottom: 30px;
+    font-family: avenir;
+    list-style: none;
+}
+
+.form_name3{
+    display: inline-block;
+    margin-left: 350px;
+    margin-right: 20px;
+    margin-top: 8px;
+    margin-bottom: 30px;
+    font-family: avenir;
+    list-style: none;
+}
+
+.newsletter_form input {
+    position: relative;
+}
+
+.newsletter_form{
+    text-align: center;
+}
+
+.email_form{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+    font-family: avenir;
+    word-spacing: 6px;
+}
+
+
+.email_form2{
+    display: inline-block;
+    margin-top: 8px;
+    font-family: avenir;
+    list-style: none;
+    height: 25px;
+}
+
+.email_form3{
+    display: inline-flex;
+    margin-top: 8px;
+    font-family: avenir;
+    list-style: none;
+    height: 25px;
+}
+
+.form_error{
+    color: red;
+    text-align: center;
+}
+
+.textbox_form{
+    text-align: center;
+    display: block;
+    padding: 15px;
+    margin-top: 20px;
+    font-family: avenir;
+}
+
+.text_center_box{
+    width:400px;
+    height: 100px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-top: 4px;
+    margin-bottom: 12px;
+    resize:vertical;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    font-family: avenir;
+}
+
+.submit_button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    color: black;
+    background-color: hsl(120, 10%, 92%);
+    font-family: avenir;
+    font-size: 13px;
+    list-style: none;
+}
+.submit_button2{
+    margin-left: 10px;
+    color: black;
+    background-color: hsl(120, 10%, 92%);
+    font-family: avenir;
+    font-size: 13px;
+    list-style: none;
+    display: block;
+}
+
+.submit_button3{
+    margin-left: 70px;
+    margin-right: auto;
+    width: 15%;
+    color: black;
+    background-color: hsl(120, 10%, 92%);
+    font-family: avenir;
+    font-size: 13px;
+    list-style: none;
+    display: block;
+    margin-top: -19px;
+    margin-bottom: 15px;
+}
+
+.submit_button4{
+    margin-left: 310px;
+    margin-right: auto;
+    width: 10%;
+    color: black;
+    background-color: hsl(120, 10%, 92%);
+    font-family: avenir;
+    font-size: 13px;
+    list-style: none;
+    display: block;
+    margin-top: -19px;
+    margin-bottom: 15px;
+}
+
+.submit_button6{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    color: black;
+    background-color: hsl(120, 10%, 92%);
+    font-family: avenir;
+    font-size: 15px;
+    list-style: none;
+}
+
+.img_description input {
+    align-content: flex-start;
+}
+
+.new_name input {
+    align-content: flex-start;
+}
+/* @import url('https://fonts.googleapis.com/css?family=Cinzel'); */
+.eboard_members{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+
+.eboard_members2{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    margin: 50px;
+    margin-bottom: -30px;
+}
+
+
+.newsletter_error{
+    color: #BF0025;
+    text-align: center;
+    font-family: avenir;
+    font-size: 15px;
+
+}
+/* calendar */
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+table.calendar {
+    border-left: 1px solid #999;
+    align-content: center;}
+/* tr.calendar-row	{  } */
+
+td.calendar-day	{
+    min-height:80px;
+    font-size:11px;
+    position: relative; } * html div.calendar-day { height:80px; }
+
+td.calendar-day:hover {
+        background:#eceff5; }
+
+td.calendar-day-np {
+     background:#eee;
+     min-height:80px; } * html div.calendar-day-np { height:80px; }
+
+td.calendar-day-head {
+    background:#ccc;
+    font-weight:bold;
+    text-align:center;
+    width:120px;
+    padding:5px;
+    border-bottom:1px solid #999;
+    border-top:1px solid #999;
+    border-right:1px solid #999; }
+
+div.day-number {
+    background:#999;
+    padding:5px;
+    color:#fff;
+    font-weight:bold;
+    float:right;
+    margin:-5px -5px 0 0;
+    width:20px;
+    text-align:center; }
+/* shared */
+td.calendar-day, td.calendar-day-np {
+    width:120px;
+    padding:5px;
+    border-bottom:2px solid #999;
+    border-right:1px solid #999; }
+
+.calendar-row{
+    height: 100px;
+}
+
+.upload{
+    list-style: none;
+    display: inline-flex;
+}
+
+ul{
+    list-style: none;
+}
+.text-inline{
+    font-family: avenir;
+    padding: 5px;
+}
+
+.avenir{
+    font-family: avenir;
+}
+
+.signout{
+    font-family: avenir;
+}
+
+.time_input input {
+    width: 17px;
+    margin-left: 10px;
+}
+
+h5 {
+    color: gray;
+    opacity: 0.5;
+}
+
+
+#content-wrap{
+    padding: 10px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: separate;
+    width: 100%;
+  }
+
+  td,th {
+    text-align: center;
+    border: 3px dotted hsl(283, 7%, 81%);
+    padding: 20px;
+    width: 15%;
+  }
+
+  .return{
+    font-size: 17px;
+    margin-top: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: avenir;
+    padding: 15px;
+    text-decoration: none;
+    background-color: hsl(270, 5%, 92%);
+    margin: 20px;
+    list-style: none;
+  }
+
+  .return2{
+    font-size: 17px;
+    margin-top: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: avenir;
+    padding: 15px;
+    text-decoration: none;
+    background-color: hsl(270, 5%, 92%);
+    margin: 20px;
+    list-style: none;
+  }
